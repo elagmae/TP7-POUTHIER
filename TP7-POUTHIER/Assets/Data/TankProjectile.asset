@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 526ac814f9efb414aa386a8da140b227, type: 3}
+  m_Name: TankProjectile
+  m_EditorClassIdentifier: 
+  projectileSpeed: 3
+  timeOfExplosion: 1
+  projectileForm: {fileID: 2125724687944275785, guid: b2a29ac81db4311409625cd2c8760624, type: 3}
